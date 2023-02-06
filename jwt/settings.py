@@ -1,0 +1,7 @@
+MY_JWT = {
+    'HEADER_NAME': 'Authorization',
+    'ALGORITHM': 'HS256',
+    'ACCESS_TOKEN_LIFETIME': 600,
+    'REFRESH_TOKEN_LIFETIME': 5,
+
+}
